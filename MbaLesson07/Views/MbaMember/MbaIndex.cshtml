@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MbaLesson07.Models.MbaMember>
+
+@{
+    ViewData["Title"] = "MbaIndex";
+    Layout = "~/Views/Shared/_MbaLayout.cshtml";
+}
+
+<h1>MbaIndex</h1>
+
+<p>
+    <a asp-action="MbaCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.mbaId)</th>
+            <th>@Html.DisplayNameFor(model => model.mbaName)</th>
+            <th>@Html.DisplayNameFor(model => model.mbaUserName)</th>
+            <th>@Html.DisplayNameFor(model => model.mbaPassword)</th>
+            <th>@Html.DisplayNameFor(model => model.mbaEmail)</th>
+            <th>@Html.DisplayNameFor(model => model.mbaStatus)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.mbaId)</td>
+            <td>@Html.DisplayFor(modelItem => item.mbaName)</td>
+            <td>@Html.DisplayFor(modelItem => item.mbaUserName)</td>
+            <td>@Html.DisplayFor(modelItem => item.mbaPassword)</td>
+            <td>@Html.DisplayFor(modelItem => item.mbaEmail)</td>
+            <td>
+                @if (item.mbaStatus)
+                {
+                    <span class="badge bg-success">Kích hoạt</span>
+                }
+                else
+                {
+                    <span class="badge bg-secondary">Vô hiệu</span>
+                }
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "MbaEdit", new { id = item.mbaId }) |
+                @Html.ActionLink("Details", "MbaDetails", new { id = item.mbaId }) |
+                @Html.ActionLink("Delete", "MbaDelete", new { id = item.mbaId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

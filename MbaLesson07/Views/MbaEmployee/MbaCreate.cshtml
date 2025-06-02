@@ -1,0 +1,60 @@
+﻿@model MbaLesson07.Models.MbaEmployee
+
+@{
+    ViewData["Title"] = "MbaCreate";
+    Layout = "~/Views/Shared/_MbaLayout.cshtml";
+}
+
+<h1>MbaCreate</h1>
+
+<h4>MbaEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="MbaCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MbaId" class="control-label"></label>
+                <input asp-for="MbaId" class="form-control" />
+                <span asp-validation-for="MbaId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaName" class="control-label"></label>
+                <input asp-for="MbaName" class="form-control" />
+                <span asp-validation-for="MbaName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaBirthDay" class="control-label"></label>
+                <input asp-for="MbaBirthDay" class="form-control" />
+                <span asp-validation-for="MbaBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaEmail" class="control-label"></label>
+                <input asp-for="MbaEmail" class="form-control" />
+                <span asp-validation-for="MbaEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaPhone" class="control-label"></label>
+                <input asp-for="MbaPhone" class="form-control" />
+                <span asp-validation-for="MbaPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaSalary" class="control-label"></label>
+                <input asp-for="MbaSalary" class="form-control" />
+                <span asp-validation-for="MbaSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="MbaStatus" /> @Html.DisplayNameFor(model => model.MbaStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="MbaIndex">Back to List</a>
+</div>

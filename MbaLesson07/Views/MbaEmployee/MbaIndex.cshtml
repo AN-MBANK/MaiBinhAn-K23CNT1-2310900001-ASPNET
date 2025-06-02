@@ -1,0 +1,54 @@
+﻿@model IEnumerable<MbaLesson07.Models.MbaEmployee>
+
+@{
+    ViewData["Title"] = "MbaIndex";
+    Layout = "~/Views/Shared/_MbaLayout.cshtml";
+}
+
+<h1>DANH SÁCH NHÂN VIÊN</h1>
+
+<p>
+    <a asp-action="MbaCreate" class="btn btn-primary">Thêm mới</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.MbaId)</th>
+            <th>@Html.DisplayNameFor(model => model.MbaName)</th>
+            <th>@Html.DisplayNameFor(model => model.MbaBirthDay)</th>
+            <th>@Html.DisplayNameFor(model => model.MbaEmail)</th>
+            <th>@Html.DisplayNameFor(model => model.MbaPhone)</th>
+            <th>@Html.DisplayNameFor(model => model.MbaSalary)</th>
+            <th>@Html.DisplayNameFor(model => model.MbaStatus)</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.MbaId)</td>
+                <td>@Html.DisplayFor(modelItem => item.MbaName)</td>
+                <td>@Html.DisplayFor(modelItem => item.MbaBirthDay)</td>
+                <td>@Html.DisplayFor(modelItem => item.MbaEmail)</td>
+                <td>@Html.DisplayFor(modelItem => item.MbaPhone)</td>
+                <td>@Html.DisplayFor(modelItem => item.MbaSalary)</td>
+                <td>
+                    @if (item.MbaStatus)
+                    {
+                        <span class="badge bg-success">Hoạt động</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Không hoạt động</span>
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "MbaEdit", new { id = item.MbaId }) |
+                    @Html.ActionLink("Details", "MbaDetails", new { id = item.MbaId }) |
+                    @Html.ActionLink("Delete", "MbaDelete", new { id = item.MbaId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
