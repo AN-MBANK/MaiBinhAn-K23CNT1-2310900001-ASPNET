@@ -1,0 +1,75 @@
+﻿@model MbaNetCoreMVCLAB05.Models.MbaPeople
+
+@{
+    ViewData["Title"] = "MbaEdit";
+}
+
+<h1>MbaEdit</h1>
+
+<h4>MbaPeople</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="MbaEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MbaID" class="control-label"></label>
+                <input asp-for="MbaID" class="form-control" />
+                <span asp-validation-for="MbaID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaName" class="control-label"></label>
+                <input asp-for="MbaName" class="form-control" />
+                <span asp-validation-for="MbaName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaEmail" class="control-label"></label>
+                <input asp-for="MbaEmail" class="form-control" />
+                <span asp-validation-for="MbaEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaPhone" class="control-label"></label>
+                <input asp-for="MbaPhone" class="form-control" />
+                <span asp-validation-for="MbaPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaAddress" class="control-label"></label>
+                <input asp-for="MbaAddress" class="form-control" />
+                <span asp-validation-for="MbaAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaAvatar" class="control-label"></label>
+                <input asp-for="MbaAvatar" class="form-control" />
+                <span asp-validation-for="MbaAvatar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaBirthday" class="control-label"></label>
+                <input asp-for="MbaBirthday" class="form-control" />
+                <span asp-validation-for="MbaBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaBio" class="control-label"></label>
+                <input asp-for="MbaBio" class="form-control" />
+                <span asp-validation-for="MbaBio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MbaGender" class="control-label"></label>
+                <input asp-for="MbaGender" class="form-control" />
+                <span asp-validation-for="MbaGender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="MbaIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\views\\mbahome\\mbaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:views\\mbahome\\mbaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\models\\datalocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:models\\datalocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\views\\mbahome\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:views\\mbahome\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\views\\mbapeople\\mbaedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:views\\mbapeople\\mbaedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\views\\mbapeople\\mbadetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:views\\mbapeople\\mbadetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\views\\mbapeople\\mbacreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:views\\mbapeople\\mbacreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\models\\mbapeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:models\\mbapeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\controllers\\mbapeoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:controllers\\mbapeoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\views\\mbapeople\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:views\\mbapeople\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\controllers\\mbahomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:controllers\\mbahomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\mbanetcoremvclab05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:mbanetcoremvclab05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\views\\shared\\_mbalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:views\\shared\\_mbalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\mbanetcoremvclab05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE69B9B9-BF6C-49AF-A7D4-914F4AAC7654}|MbaNetCoreMVCLAB05.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MbaAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaHome\\MbaAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaHome\\MbaAbout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaHome\\MbaAbout.cshtml",
+              "RelativeToolTip": "Views\\MbaHome\\MbaAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:09:38.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Datalocal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Models\\Datalocal.cs",
+              "RelativeDocumentMoniker": "Models\\Datalocal.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Models\\Datalocal.cs",
+              "RelativeToolTip": "Models\\Datalocal.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwBEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:06:23.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MbaCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaPeople\\MbaCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaPeople\\MbaCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaPeople\\MbaCreate.cshtml",
+              "RelativeToolTip": "Views\\MbaPeople\\MbaCreate.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:11:26.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MbaDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaPeople\\MbaDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaPeople\\MbaDetail.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaPeople\\MbaDetail.cshtml",
+              "RelativeToolTip": "Views\\MbaPeople\\MbaDetail.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:11:41.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MbaEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaPeople\\MbaEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaPeople\\MbaEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaPeople\\MbaEdit.cshtml",
+              "RelativeToolTip": "Views\\MbaPeople\\MbaEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:12:06.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MbaPeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Controllers\\MbaPeopleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MbaPeopleController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Controllers\\MbaPeopleController.cs",
+              "RelativeToolTip": "Controllers\\MbaPeopleController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:04:01.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MbaPeople.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Models\\MbaPeople.cs",
+              "RelativeDocumentMoniker": "Models\\MbaPeople.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Models\\MbaPeople.cs",
+              "RelativeToolTip": "Models\\MbaPeople.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:08:16.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MbaIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaHome\\MbaIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaHome\\MbaIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaHome\\MbaIndex.cshtml",
+              "RelativeToolTip": "Views\\MbaHome\\MbaIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:09:32.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MbaIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaPeople\\MbaIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaPeople\\MbaIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\MbaPeople\\MbaIndex.cshtml",
+              "RelativeToolTip": "Views\\MbaPeople\\MbaIndex.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:11:04.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MbaHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Controllers\\MbaHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MbaHomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Controllers\\MbaHomeController.cs",
+              "RelativeToolTip": "Controllers\\MbaHomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:05:17.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:15:24.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MbaNetCoreMVCLAB05",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\MbaNetCoreMVCLAB05.csproj",
+              "RelativeDocumentMoniker": "MbaNetCoreMVCLAB05.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\MbaNetCoreMVCLAB05.csproj",
+              "RelativeToolTip": "MbaNetCoreMVCLAB05.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T03:54:56.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_MbaLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\Shared\\_MbaLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_MbaLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\Shared\\_MbaLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_MbaLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:15:09.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MbaNetCoreMVCLAB05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:01:43.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
