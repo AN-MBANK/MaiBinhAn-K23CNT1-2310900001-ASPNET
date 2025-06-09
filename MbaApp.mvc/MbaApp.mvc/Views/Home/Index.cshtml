@@ -1,0 +1,33 @@
+﻿@model List<MbaApp.Mvc.Controllers.Product>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h1>@ViewBag.Title</h1>
+<p>@ViewData["Message"]</p>
+<p>Total Products: @ViewBag.TotalProducts</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>
+                    <a href="@Url.Action("Details", "Product", new { id = product.Id })">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

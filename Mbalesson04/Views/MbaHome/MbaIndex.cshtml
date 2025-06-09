@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Mbalesson04.Models.MbaBook>
+@{
+    ViewData["Title"] = "List book";
+}
+<h1>thông tin sinh viên</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>BookId</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Image</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (MbaBook mbaItem in Model)
+        {
+            <tr>
+                <td>@mbaItem.MbaId</td>
+                <td>@mbaItem.MbaTitle</td>
+                <td>@mbaItem.MbaDescription</td>
+                <td>@mbaItem.MbaPrice</td>
+                <td>@mbaItem.MbaImage</td>
+            </tr>
+            
+        }
+    </tbody>
+</table>

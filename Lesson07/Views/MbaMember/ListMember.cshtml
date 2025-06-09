@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "thông tin member";
+    var mbaMember = ViewBag.mbaMember as Lesson07.Models.DataModel.Member;
+}
+
+<div class="alert alert-danger">
+    <h1>Thông tin member</h1>
+    <hr />
+    <p>MemberID: @mbaMember.MemberId</p>
+    <p>Username: @mbaMember.UserName</p>
+    <p>Fullname: @mbaMember.Fullname</p>
+    <p>Password: @mbaMember.password</p>
+    <p>Email: @mbaMember.Email</p>
+</div>
+

@@ -1,0 +1,42 @@
+﻿@model NetCoreMVCLAB05.Models.Product
+
+@{
+    ViewBag.Title = "Thêm Sản Phẩm Mới";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div>
+        @Html.LabelFor(m => m.Name, "Tên Sản Phẩm")
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control", maxlength = "150" })
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Price, "Giá")
+        @Html.TextBoxFor(m => m.Price, new { @class = "form-control", type = "number", step = "0.01", min = "0" })
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.SalePrice, "Giá Sale")
+        @Html.TextBoxFor(m => m.SalePrice, new { @class = "form-control", type = "number", step = "0.01", min = "0" })
+        <small>Không nhỏ hơn 10% giá gốc</small>
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Description, "Mô Tả")
+        @Html.TextAreaFor(m => m.Description, new { @class = "form-control", maxlength = "1500" })
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Category, "Danh Mục")
+        @Html.DropDownListFor(m => m.Category, (SelectList)ViewBag.Categories, "--Chọn danh mục--", new { @class = "form-control" })
+    </div>
+
+    <div>
+        <input type="submit" value="Lưu" class="btn btn-primary" />
+    </div>
+}

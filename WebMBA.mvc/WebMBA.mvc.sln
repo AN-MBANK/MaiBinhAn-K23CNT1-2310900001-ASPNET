@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMBA.mvc", "WebMBA.mvc\WebMBA.mvc.csproj", "{91133FB7-2DFB-409B-809D-6E837D96DADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91133FB7-2DFB-409B-809D-6E837D96DADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91133FB7-2DFB-409B-809D-6E837D96DADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91133FB7-2DFB-409B-809D-6E837D96DADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91133FB7-2DFB-409B-809D-6E837D96DADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95B2AF65-2D6E-462A-8AF0-2B87A4395F7D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MbaApp.mvc", "MbaApp.mvc\MbaApp.mvc.csproj", "{2AD80CFA-C851-44D1-AF77-F5CB2F5B334B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD80CFA-C851-44D1-AF77-F5CB2F5B334B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD80CFA-C851-44D1-AF77-F5CB2F5B334B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD80CFA-C851-44D1-AF77-F5CB2F5B334B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD80CFA-C851-44D1-AF77-F5CB2F5B334B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E97710F-74DA-4EFB-8B4E-21D0A93C753D}
+	EndGlobalSection
+EndGlobal

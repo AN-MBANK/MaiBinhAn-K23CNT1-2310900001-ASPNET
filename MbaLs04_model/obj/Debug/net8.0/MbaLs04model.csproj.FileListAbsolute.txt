@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\MbaLs04_model\obj\Debug\net8.0\MbaLs04model.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MbaLs04_model\obj\Debug\net8.0\MbaLs04model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MbaLs04_model\obj\Debug\net8.0\MbaLs04model.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MbaLs04_model\obj\Debug\net8.0\MbaLs04model.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MbaLs04_model\obj\Debug\net8.0\MbaLs04model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MbaLs04_model\obj\Debug\net8.0\MbaLs04model.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\MbaLs04_model\obj\Debug\net8.0\MbaLs04model.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\MbaLs04_model\obj\Debug\net8.0\MbaLs04model.RazorAssemblyInfo.cs

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Models\\DataModels",
+    "\\Views",
+    "\\Views\\MbaHome",
+    "\\Views\\MbaMember",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Views\\Shared\\_MbaLayout.cshtml",
+  "PreviewInSolutionExplorer": false
+}

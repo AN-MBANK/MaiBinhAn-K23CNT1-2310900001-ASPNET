@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\NetCoreMVCLAB05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{667A285A-BC2D-4FBC-BC70-D8766D894E6B}|NetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\netcoremvclab05\\views\\product\\mbacreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{667A285A-BC2D-4FBC-BC70-D8766D894E6B}|NetCoreMVCLAB05.csproj|solutionrelative:views\\product\\mbacreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667A285A-BC2D-4FBC-BC70-D8766D894E6B}|NetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\netcoremvclab05\\controllers\\homeproductcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667A285A-BC2D-4FBC-BC70-D8766D894E6B}|NetCoreMVCLAB05.csproj|solutionrelative:controllers\\homeproductcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667A285A-BC2D-4FBC-BC70-D8766D894E6B}|NetCoreMVCLAB05.csproj|c:\\users\\admin\\source\\repos\\netcoremvclab05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{667A285A-BC2D-4FBC-BC70-D8766D894E6B}|NetCoreMVCLAB05.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MbaCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetCoreMVCLAB05\\Views\\Product\\MbaCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\MbaCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetCoreMVCLAB05\\Views\\Product\\MbaCreate.cshtml",
+              "RelativeToolTip": "Views\\Product\\MbaCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T02:51:00.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeProductController1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetCoreMVCLAB05\\Controllers\\HomeProductController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeProductController1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetCoreMVCLAB05\\Controllers\\HomeProductController1.cs*",
+              "RelativeToolTip": "Controllers\\HomeProductController1.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:47:51.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NetCoreMVCLAB05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NetCoreMVCLAB05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T02:39:51.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
