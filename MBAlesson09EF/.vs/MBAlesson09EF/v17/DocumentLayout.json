@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\views\\shared\\_mbanavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:views\\shared\\_mbanavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\controllers\\mbapublisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:controllers\\mbapublisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\controllers\\mbacategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:controllers\\mbacategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\views\\mbacategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:views\\mbacategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\views\\mbacategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:views\\mbacategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\views\\mbacategories\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:views\\mbacategories\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\controllers\\mbahomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:controllers\\mbahomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\models\\mbabookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:models\\mbabookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\views\\shared\\mbaerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:views\\shared\\mbaerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\views\\shared\\_mbalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:views\\shared\\_mbalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\views\\mbahome\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:views\\mbahome\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\views\\mbahome\\mbaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:views\\mbahome\\mbaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|c:\\users\\admin\\source\\repos\\mbalesson09ef\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EC6F2BF-634C-4698-B4B6-4536CC0E2530}|MBAlesson09EF.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\MbaCategories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaCategories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\MbaCategories\\Edit.cshtml",
+              "RelativeToolTip": "Views\\MbaCategories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T04:01:13.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Models\\Publisher.cs",
+              "RelativeToolTip": "Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:06:14.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MbaPublishersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Controllers\\MbaPublishersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MbaPublishersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Controllers\\MbaPublishersController.cs",
+              "RelativeToolTip": "Controllers\\MbaPublishersController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAUwJMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:04:39.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MbaIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\MbaCategories\\MbaIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaCategories\\MbaIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\MbaCategories\\MbaIndex.cshtml",
+              "RelativeToolTip": "Views\\MbaCategories\\MbaIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T03:51:22.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MbaCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Controllers\\MbaCategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MbaCategoriesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Controllers\\MbaCategoriesController.cs",
+              "RelativeToolTip": "Controllers\\MbaCategoriesController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAD0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:50:09.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MbaNavBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\Shared\\_MbaNavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_MbaNavBar.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\Shared\\_MbaNavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_MbaNavBar.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBMAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:37:52.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\MbaCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaCategories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\MbaCategories\\Create.cshtml",
+              "RelativeToolTip": "Views\\MbaCategories\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T03:51:49.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T03:19:05.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MbaError.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\Shared\\MbaError.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\MbaError.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\Shared\\MbaError.cshtml",
+              "RelativeToolTip": "Views\\Shared\\MbaError.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:48:51.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:47:04.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MbaAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\MbaHome\\MbaAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaHome\\MbaAbout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\MbaHome\\MbaAbout.cshtml",
+              "RelativeToolTip": "Views\\MbaHome\\MbaAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:43:21.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MbaBookStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Models\\MbaBookStoreContext.cs",
+              "RelativeDocumentMoniker": "Models\\MbaBookStoreContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Models\\MbaBookStoreContext.cs",
+              "RelativeToolTip": "Models\\MbaBookStoreContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wB8AAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:17:16.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MbaIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\MbaHome\\MbaIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaHome\\MbaIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\MbaHome\\MbaIndex.cshtml",
+              "RelativeToolTip": "Views\\MbaHome\\MbaIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:42:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MbaHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Controllers\\MbaHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MbaHomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Controllers\\MbaHomeController.cs",
+              "RelativeToolTip": "Controllers\\MbaHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:40:33.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_MbaLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\Shared\\_MbaLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_MbaLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\Shared\\_MbaLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_MbaLayout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:36:52.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MBAlesson09EF\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:33:56.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
