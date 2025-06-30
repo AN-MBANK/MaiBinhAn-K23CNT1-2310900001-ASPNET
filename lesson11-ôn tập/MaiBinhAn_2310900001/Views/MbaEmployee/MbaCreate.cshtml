@@ -1,0 +1,63 @@
+﻿@model MaiBinhAn_2310900001.Models.MbaEmployee
+
+@{
+    ViewData["Title"] = "Thêm mới nhân viên";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="MbaCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h2 class="text-center">Thêm mới nhân viên</h2>
+                </div>
+
+                <div class="card-body">
+                    <div class="form-group mb-3">
+                        <label asp-for="MbaEmpId" class="form-label"></label>
+                        <input asp-for="MbaEmpId" class="form-control" />
+                        <span asp-validation-for="MbaEmpId" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="MbaEmpName" class="form-label"></label>
+                        <input asp-for="MbaEmpName" class="form-control" />
+                        <span asp-validation-for="MbaEmpName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="MbaEmpLevel" class="form-label"></label>
+                        <input asp-for="MbaEmpLevel" class="form-control" />
+                        <span asp-validation-for="MbaEmpLevel" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="MbaEmpStartDate" class="form-label"></label>
+                        <input asp-for="MbaEmpStartDate" class="form-control" />
+                        <span asp-validation-for="MbaEmpStartDate" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group form-check mb-3">
+                        <input class="form-check-input" asp-for="MbaEmpStatus" />
+                        <label class="form-check-label">
+                            @Html.DisplayNameFor(model => model.MbaEmpStatus)
+                        </label>
+                    </div>
+                </div>
+
+                <div class="card-footer text-center">
+                    <input type="submit" value="Thêm mới" class="btn btn-primary me-2" />
+                    <a asp-action="MbaIndex" class="btn btn-secondary">Quay lại</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

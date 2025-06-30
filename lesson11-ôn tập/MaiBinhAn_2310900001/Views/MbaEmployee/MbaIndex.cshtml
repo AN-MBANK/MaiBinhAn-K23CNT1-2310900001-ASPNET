@@ -1,0 +1,54 @@
+﻿@model IEnumerable<MaiBinhAn_2310900001.Models.MbaEmployee>
+
+@{
+    ViewData["Title"] = "MbaIndex";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="MbaCreate" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MbaEmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MbaEmpLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MbaEmpStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MbaEmpStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MbaEmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MbaEmpLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MbaEmpStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MbaEmpStatus)
+            </td>
+                <td>
+                    <a asp-action="MbaEdit" asp-route-Mbaid="@item.MbaEmpId" class="btn btn-warning btn-sm">Sửa</a>
+                    <a asp-action="MbaDetails" asp-route-Mbaid="@item.MbaEmpId" class="btn btn-info btn-sm text-white">Xem</a>
+                    <a asp-action="MbaDelete" asp-route-Mbaid="@item.MbaEmpId" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+
+        </tr>
+}
+    </tbody>
+</table>

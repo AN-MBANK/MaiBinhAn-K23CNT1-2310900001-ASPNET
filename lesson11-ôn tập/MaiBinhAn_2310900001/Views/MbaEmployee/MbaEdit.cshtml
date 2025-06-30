@@ -1,0 +1,59 @@
+﻿@model MaiBinhAn_2310900001.Models.MbaEmployee
+
+@{
+    ViewData["Title"] = "Chỉnh sửa nhân viên";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="MbaEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="card">
+                <div class="card-header bg-warning text-dark">
+                    <h2 class="text-center">Chỉnh sửa thông tin nhân viên</h2>
+                </div>
+
+                <div class="card-body">
+                    <input type="hidden" asp-for="MbaEmpId" />
+
+                    <div class="form-group my-3">
+                        <label asp-for="MbaEmpName" class="form-label"></label>
+                        <input asp-for="MbaEmpName" class="form-control" />
+                        <span asp-validation-for="MbaEmpName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group my-3">
+                        <label asp-for="MbaEmpLevel" class="form-label"></label>
+                        <input asp-for="MbaEmpLevel" class="form-control" />
+                        <span asp-validation-for="MbaEmpLevel" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group my-3">
+                        <label asp-for="MbaEmpStartDate" class="form-label"></label>
+                        <input asp-for="MbaEmpStartDate" class="form-control" />
+                        <span asp-validation-for="MbaEmpStartDate" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group form-check my-3">
+                        <input class="form-check-input" asp-for="MbaEmpStatus" />
+                        <label class="form-check-label">
+                            @Html.DisplayNameFor(model => model.MbaEmpStatus)
+                        </label>
+                    </div>
+                </div>
+
+                <div class="card-footer text-center">
+                    <input type="submit" value="Lưu thay đổi" class="btn btn-success me-2" />
+                    <a asp-action="MbaIndex" class="btn btn-secondary">Quay lại</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
