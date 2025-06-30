@@ -1,66 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\",
+  "WorkspaceRootPath": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\views\\mbaemployee\\mbaedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:views\\mbaemployee\\mbaedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaEdit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MbaEmployee\\MbaEdit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\views\\mbaemployee\\mbadetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:views\\mbaemployee\\mbadetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MbaEmployee\\MbaDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\views\\mbaemployee\\mbadelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:views\\mbaemployee\\mbadelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaCreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MbaEmployee\\MbaCreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\views\\mbaemployee\\mbacreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:views\\mbaemployee\\mbacreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Models\\MbaEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\MbaEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\controllers\\mbaemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:controllers\\mbaemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Controllers\\MbaEmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\MbaEmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\models\\mbaemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:models\\mbaemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaIndex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MbaEmployee\\MbaIndex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\views\\mbaemployee\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:views\\mbaemployee\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaHome\\MbaIndex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MbaHome\\MbaIndex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\views\\mbahome\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:views\\mbahome\\mbaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaDelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MbaEmployee\\MbaDelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\views\\mbahome\\mbaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:views\\mbahome\\mbaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaHome\\MbaAbout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\MbaHome\\MbaAbout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\models\\mbadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:models\\mbadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Models\\MbaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\MbaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\views\\shared\\_mbalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:views\\shared\\_mbalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Controllers\\MbaHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\MbaHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\controllers\\mbahomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:controllers\\mbahomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\Shared\\_MbaLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_MbaLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|c:\\users\\admin\\source\\repos\\maibinhan_2310900001\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCFC9ED7-0204-4886-8D38-69A5D9B577CC}|MaiBinhAn_2310900001.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,11 +76,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MbaEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaEdit.cshtml",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaEdit.cshtml",
               "RelativeDocumentMoniker": "Views\\MbaEmployee\\MbaEdit.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaEdit.cshtml",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaEdit.cshtml",
               "RelativeToolTip": "Views\\MbaEmployee\\MbaEdit.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCgAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-30T03:33:36.315Z",
               "EditorCaption": ""
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MbaDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaDetails.cshtml",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaDetails.cshtml",
               "RelativeDocumentMoniker": "Views\\MbaEmployee\\MbaDetails.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaDetails.cshtml",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaDetails.cshtml",
               "RelativeToolTip": "Views\\MbaEmployee\\MbaDetails.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -100,167 +100,155 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MbaCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaCreate.cshtml",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaCreate.cshtml",
               "RelativeDocumentMoniker": "Views\\MbaEmployee\\MbaCreate.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaCreate.cshtml",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaCreate.cshtml",
               "RelativeToolTip": "Views\\MbaEmployee\\MbaCreate.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T03:07:48.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T03:07:48.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MbaEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Models\\MbaEmployee.cs",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Models\\MbaEmployee.cs",
               "RelativeDocumentMoniker": "Models\\MbaEmployee.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Models\\MbaEmployee.cs",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Models\\MbaEmployee.cs",
               "RelativeToolTip": "Models\\MbaEmployee.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAawAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T02:22:04.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T02:22:04.867Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MbaEmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Controllers\\MbaEmployeeController.cs",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Controllers\\MbaEmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\MbaEmployeeController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Controllers\\MbaEmployeeController.cs",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Controllers\\MbaEmployeeController.cs",
               "RelativeToolTip": "Controllers\\MbaEmployeeController.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T02:33:18.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T02:33:18.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MbaIndex.cshtml",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaEmployee\\MbaIndex.cshtml",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaIndex.cshtml",
+              "RelativeToolTip": "Views\\MbaEmployee\\MbaIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T02:40:00.303Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MbaIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaIndex.cshtml",
-              "RelativeDocumentMoniker": "Views\\MbaEmployee\\MbaIndex.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaIndex.cshtml",
-              "RelativeToolTip": "Views\\MbaEmployee\\MbaIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaHome\\MbaIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\MbaHome\\MbaIndex.cshtml",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaHome\\MbaIndex.cshtml",
+              "RelativeToolTip": "Views\\MbaHome\\MbaIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T02:40:00.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T02:41:10.377Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MbaIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaHome\\MbaIndex.cshtml",
-              "RelativeDocumentMoniker": "Views\\MbaHome\\MbaIndex.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaHome\\MbaIndex.cshtml",
-              "RelativeToolTip": "Views\\MbaHome\\MbaIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T02:41:10.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MbaDelete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaDelete.cshtml",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaDelete.cshtml",
               "RelativeDocumentMoniker": "Views\\MbaEmployee\\MbaDelete.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaDelete.cshtml",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaEmployee\\MbaDelete.cshtml",
               "RelativeToolTip": "Views\\MbaEmployee\\MbaDelete.cshtml",
               "ViewState": "AgIAAD4AAAAAAAAAAAAcwEwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T02:40:15.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T02:40:15.239Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "MbaAbout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaHome\\MbaAbout.cshtml",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaHome\\MbaAbout.cshtml",
               "RelativeDocumentMoniker": "Views\\MbaHome\\MbaAbout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\MbaHome\\MbaAbout.cshtml",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\MbaHome\\MbaAbout.cshtml",
               "RelativeToolTip": "Views\\MbaHome\\MbaAbout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T02:40:53.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T02:40:53.807Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MbaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Models\\MbaDbContext.cs",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Models\\MbaDbContext.cs",
               "RelativeDocumentMoniker": "Models\\MbaDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Models\\MbaDbContext.cs",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Models\\MbaDbContext.cs",
               "RelativeToolTip": "Models\\MbaDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T02:30:08.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T02:24:28.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-30T02:23:01.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MbaHomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Controllers\\MbaHomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MbaHomeController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Controllers\\MbaHomeController.cs",
-              "RelativeToolTip": "Controllers\\MbaHomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T02:14:58.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T02:30:08.456Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:24:28.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T02:23:01.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MbaHomeController.cs",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Controllers\\MbaHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MbaHomeController.cs",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Controllers\\MbaHomeController.cs",
+              "RelativeToolTip": "Controllers\\MbaHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:14:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_MbaLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\Shared\\_MbaLayout.cshtml",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\Shared\\_MbaLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_MbaLayout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\Shared\\_MbaLayout.cshtml",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\Shared\\_MbaLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_MbaLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T01:54:56.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T01:54:56.714Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaiBinhAn_2310900001\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\ASPNET\\MaiBinhAn-K23CNT1-2310900001-ASPNET\\lesson11-\u00F4n t\u1EADp\\MaiBinhAn_2310900001\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
